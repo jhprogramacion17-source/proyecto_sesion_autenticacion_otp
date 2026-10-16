@@ -4,7 +4,7 @@ API REST de autenticación en dos factores: contraseña + código OTP de 6 dígi
 
 **Stack:** FastAPI · SQLAlchemy · SQLite · Pydantic · bcrypt · PyJWT · smtplib · pytest
 
-**URL del despliegue:** https://TU_USUARIO.pythonanywhere.com/docs
+**URL del despliegue:** https://javdev.pythonanywhere.com/docs
 
 ## Flujo
 
